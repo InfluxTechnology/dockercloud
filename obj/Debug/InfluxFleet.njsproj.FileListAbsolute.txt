@@ -1,0 +1,3 @@
+C:\Current Projects\AWS\InfluxFleet\InfluxFleet\obj\Debug\InfluxFleet.njsproj.AssemblyReference.cache
+C:\Current Projects\AWS\InfluxFleet\InfluxFleet\obj\Debug\InfluxFleet.njsproj.CoreCompileInputs.cache
+C:\Current Projects\AWS\InfluxFleet\InfluxFleet\bin\Microsoft.NodejsTools.WebRole.dll
