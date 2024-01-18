@@ -1,8 +1,8 @@
 # InfluxFleet
 
-<b>Installation </b>
-Docker CE must be installed for your OS (Windows, linux)
-Clone repo or Download
+<b>Installation </b> <br \>
+Docker CE must be installed for your OS (Windows, linux) <br \>
+Clone repo or Download <br \>
 <code> git clone https://github.com/InfluxTechnology/dockercloud.git </code>
 
 Docker image is build with <br>    
