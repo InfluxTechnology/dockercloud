@@ -1,5 +1,9 @@
 # InfluxFleet
 
+<b>Installation </b>
+Docker CE must be installed for your OS (Windows, linux)
+Clone repo or Download
+<code> git clone https://github.com/InfluxTechnology/dockercloud.git </code>
 
 Docker image is build with <br>    
 <pre>
@@ -15,3 +19,5 @@ Port 3000 is the port for direct access to Grafana <br>
 ACCESS_KEY - The access key to the Amazon Web Services<br>
 SECRET_KEY - The secret key to the Amazon Web Services<br>
 REGION - the Amazon region
+
+Open in your browser localhost:1337
